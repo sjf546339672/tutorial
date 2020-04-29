@@ -213,5 +213,3 @@ class UserViewSet(viewsets.ReadOnlyModelViewSet):
 
 
 
-
-
